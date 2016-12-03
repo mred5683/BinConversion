@@ -1,0 +1,6 @@
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\bin\Debug\BinConversion.exe.config
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\bin\Debug\BinConversion.exe
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\bin\Debug\BinConversion.pdb
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\obj\Debug\BinConversion.csprojResolveAssemblyReference.cache
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\obj\Debug\BinConversion.exe
+C:\Programming\C# Programs\Personal\BinConversion\BinConversion\obj\Debug\BinConversion.pdb
